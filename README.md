@@ -3,13 +3,10 @@
 </div>
 
 <div id="badges" align = "center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/adebitan-damola-0703a718b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -17,11 +14,11 @@
 
 <hr/>
 
-- 👋 Hi, I’m @Adedamola99
+- 👋 Hi, My Name is Damola
 - 👀 I’m interested programming and creating things on the web 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 You can reach me on linkedIn and twitter by clicking the link above.
 
 <hr/>
 
