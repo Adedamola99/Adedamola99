@@ -17,8 +17,8 @@
 - 👋 Hi, My Name is Damola
 - 👀 I’m interested programming and creating things on the web 
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me on linkedIn and twitter by clicking the link above.
+- 💞️ I’m looking to collaborate on projects on react
+- 📫 You can reach me on linkedIn and twitter by clicking the social media icon link above.
 
 <hr/>
 
