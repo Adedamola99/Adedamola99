@@ -15,7 +15,7 @@
 <hr/>
 
 - 👋 Hi, My Name is Damola
-- 👀 I’m interested programming and creating things on the web 
+- 👀 I’m interested in programming and creating things on the web 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects on any kind of interesting project involving frontend
 - 📫 You can reach me on linkedIn and twitter by clicking the social media icon link above.
