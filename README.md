@@ -14,7 +14,7 @@
 
 <hr/>
 
-- 👋 Hi, My Name is Damola
+- 👋 Hi, My Name is Adedamola
 - 👀 I’m interested in programming and creating things on the web 
 - 🌱 I’m currently learning Backend Development 
 - 💞️ I’m looking to collaborate on projects on any kind of interesting project involving frontend
