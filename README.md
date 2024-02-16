@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://imgur.com/LoUXdPY" width="100"/>
-</div>
+https://imgur.com/LoUXdPY
 
 Hello, I'm Damola Adebitan 🤗
 
