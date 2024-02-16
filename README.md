@@ -10,7 +10,6 @@ As a Frontend Engineer with a determination for building attractive, responsive 
 **Quick Overview:** 
 --------
 - 😊 Pronouns: He/him
-<br /> 
 - 🌱 Always learning: Currently deepening my expertise in Backend Development
 <br />
 - 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
