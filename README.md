@@ -8,11 +8,19 @@ Excited you could checkout my profile
 As a Frontend Engineer with a determination for building attractive, responsive and optimized web application. I'm well versed in a few programming languages such as Python, JavaScript and also frontend stack which includes HTML5, CSS3, Tailwind, Bootstrap, JavaScript, Sass, TypeScript, React, NextJs and NodeJs. My expertise in frontend stack has allowed me to volunteer towards building web application for people and also working on some personal project which has enhanced my communication skills and also contributed to my growth. In my free time, I enjoy listening to music, playing games and engaging in football activities. I'm looking for opportunities to apply my skill set and contribute to team success.
 <br/>
 
+**Quick Overview:** 
 <hr/>
-- 🌱 I’m currently learning Backend Development <br />
-- 💞️ I’m looking to collaborate on projects on any kind of interesting project involving frontend
+- 😊 Pronouns: He/him
 <br />
-- 📫 You can reach me on linkedIn and twitter by clicking the social media icon link below.
+- 💡 Fun fact: I can recite the entire "DevOps Handbook" while juggling three stress balls! 🤹‍♂️📘 #DevOpsEnthusiast
+<br />
+- 🌱 Always learning: Currently deepening my expertise in Backend Development
+<br />
+- 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
+<br />
+- 💼 Job interests: Frontend Engineer, Backend Developer (Intern or Junior level).
+<br />
+- 📫 Feel free to contact me on linkedIn and twitter by clicking the social media icon link below or check out my resume.
 <hr/>
 
 **Languages and Tools:**  
