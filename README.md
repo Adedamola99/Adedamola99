@@ -11,11 +11,8 @@ As a Frontend Engineer with a determination for building attractive, responsive 
 --------
 - 😊 Pronouns: He/him
 - 🌱 Always learning: Currently deepening my expertise in Backend Development
-<br />
 - 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
-<br />
 - 💼 Job interests: Frontend Engineer, Backend Developer (Intern or Junior level).
-<br />
 - 📫 Feel free to contact me on linkedIn and twitter by clicking the social media icon link below or check out my resume.
 
 **Languages and Tools:**  
