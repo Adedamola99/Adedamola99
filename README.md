@@ -1,4 +1,4 @@
-https://imgur.com/LoUXdPY
+[Imgur](https://imgur.com/LoUXdPY)
 
 Hello, I'm Damola Adebitan 🤗
 
