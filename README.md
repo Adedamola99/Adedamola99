@@ -1,8 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://imgur.com/LoUXdPY" width="100"/>
 </div>
-
----------------------
 
 Hello, I'm Damola Adebitan 🤗
 
