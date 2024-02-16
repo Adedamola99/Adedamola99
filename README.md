@@ -1,5 +1,4 @@
 [Imgur](https://imgur.com/LoUXdPY)
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/LoUXdPY" data-context="false" ><a href="//imgur.com/a/LoUXdPY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 Hello, I'm Damola Adebitan 🤗
 
 Excited you could checkout my profile
