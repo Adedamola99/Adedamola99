@@ -14,7 +14,7 @@ As a Frontend Engineer with a determination for building attractive, responsive 
 - 🌱 I’m currently learning Backend Development <br />
 - 💞️ I’m looking to collaborate on projects on any kind of interesting project involving frontend
 <br />
-- 📫 You can reach me on linkedIn and twitter by clicking the social media icon link above.
+- 📫 You can reach me on linkedIn and twitter by clicking the social media icon link below.
 <hr/>
 
 **Languages and Tools:**  
