@@ -1,4 +1,5 @@
-[Imgur](https://imgur.com/LoUXdPY)
+<img src="./blue.png">
+
 Hello, I'm Damola Adebitan 🤗
 
 Excited you could checkout my profile
