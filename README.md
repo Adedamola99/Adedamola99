@@ -1,4 +1,4 @@
-<img src="./blue.png">
+<img src="./3D Modern Business Promotion Twitter Header.png">
 
 Hello, I'm Damola Adebitan 🤗
 
