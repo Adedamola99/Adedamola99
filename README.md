@@ -1,4 +1,4 @@
-<img src="/Blue 3D Modern Business Promotion Twitter Header.png" />
+<img src="/Header.png" />
 
 ![header](https://github.com/adedamola99/adedamola99/main/Header.png)
 
