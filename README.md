@@ -1,4 +1,7 @@
 <img src="/Blue 3D Modern Business Promotion Twitter Header.png" />
+
+![header](https://github.com/adedamola99 adedamola99/main/Blue 3D Modern Business Promotion Twitter Header.png)
+
 Hello, I'm Damola Adebitan 🤗
 
 Excited you could checkout my profile
