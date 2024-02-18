@@ -1,7 +1,5 @@
 <img src="/Header.png" />
 
-![header](https://github.com/adedamola99/adedamola99/main/Header.png)
-
 Hello, I'm Damola Adebitan 🤗
 
 Excited you could checkout my profile
