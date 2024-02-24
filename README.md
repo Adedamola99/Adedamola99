@@ -10,7 +10,7 @@ Excited you could checkout my profile. As a Frontend Engineer with a determinati
 - 💼 Job interests: Frontend Engineer, Backend Developer (Intern or Junior level).
 - 📫 Feel free to contact me on linkedIn and twitter by clicking the social media icon link below or check out my resume.
 
-**Languages and Tools:**  
+**Language(s) and Tools:**  
 -------------
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
