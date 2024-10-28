@@ -5,7 +5,7 @@ I'm excited you could check out my profile. As a Software Engineer determined to
 **Quick Overview:** 
 ---------
 - 😊 Pronouns: He/him.
-- 🌱 Always learning: Currently deepening my expertise in Mobile App Development (Flutter).
+- 🌱 Always learning: Currently deepening my expertise in Mobile App Development (React Native).
 - 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
 - 💼 Job interests: Frontend Engineer, Backend Developer.
 - 📫 Feel free to contact me on LinkedIn and twitter by clicking the social media icon link below or check out my resume.
