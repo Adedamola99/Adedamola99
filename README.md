@@ -1,13 +1,13 @@
 <img src="/Header.png" />
 
-I'm excited you could check out my profile. As a Software Engineer determined to build attractive, responsive, and optimized web applications. I'm well versed in a few programming languages such as Python, JavaScript, and frontend stack, including HTML5, CSS3, Tailwind, Bootstrap, JavaScript, Sass, TypeScript, React, NextJs, and NodeJs. My expertise in frontend stack has allowed me to volunteer towards building web applications for people and also working on some personal projects which has enhanced my communication skills and also contributed to my growth. In my free time, I enjoy listening to music, playing games, and engaging in football activities. I'm looking for opportunities to apply my skill set and contribute to team success.
+I'm excited you could check out my profile. As a Software Engineer determined to build attractive, responsive, and optimized web applications. I'm well versed in a few programming languages such as Python, JavaScript, and frontend stack, including HTML5, CSS3, Tailwind, Bootstrap, JavaScript, Sass, TypeScript, React, NextJs, and NodeJs. My expertise in frontend stack has allowed me to volunteer to build web applications for people and work on some personal projects, which has enhanced my communication skills and contributed to my growth. In my free time, I enjoy listening to music, playing games, and engaging in football activities. I'm seeking opportunities to apply my skill set and contribute to team success.
 
 **Quick Overview:** 
 ---------
 - 😊 Pronouns: He/him.
 - 🌱 Always learning: I am currently deepening my expertise in Mobile App Development (React Native).
 - 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
-- 💼 Job interests: Frontend Engineer, Backend Developer.
+- 💼 Job interests: Frontend Engineer, Backend Developer (junior).
 - 📫 Feel free to contact me on LinkedIn and Twitter by clicking the social media icon below or check out my resume.
 
 **Language and Tools:**  
