@@ -7,7 +7,7 @@ I'm excited you could check out my profile. As a Software Engineer determined to
 - 😊 Pronouns: He/him.
 - 🌱 Always learning: I am currently deepening my expertise in Mobile App Development (React Native).
 - 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
-- 💼 Job interests: Frontend Engineer, Backend Developer (junior).
+- 💼 Job interests: Frontend Engineer, Backend Developer.
 - 📫 Feel free to contact me on LinkedIn and Twitter by clicking the social media icon below or check out my resume.
 
 **Language and Tools:**  
