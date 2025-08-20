@@ -8,7 +8,7 @@ I'm excited you could check out my profile. As a Software Engineer determined to
 - 🌱 Always learning: I am currently deepening my expertise in Mobile App Development (React Native) and Wordpress.
 - 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
 - 💼 Job interests: Frontend Engineer, Backend Developer.
-- 📫 Feel free to contact me on LinkedIn and Twitter by clicking the social media icon below or check out my resume.
+- 📫 Feel free to contact me on LinkedIn and Twitter by clicking the social media icon below / check out my resume.
 
 **Language and Tool(s):**  
 ---------------
