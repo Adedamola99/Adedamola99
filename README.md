@@ -1,28 +1,38 @@
-<img src="/Header.png" />
+![Header](./Header.png)
 
-Thanks for stopping by — I’m a Software Engineer who builds attractive, responsive, and high-performance web applications. I work with Python and JavaScript and specialize in modern frontend technologies: HTML5, CSS3 (Sass), Tailwind, Bootstrap, TypeScript, React, Next.js, and Node.js. I’ve also gained practical WordPress experience — theme and plugin customization, Elementor/Gutenberg workflows, and WooCommerce setup — which lets me deliver both custom apps and flexible CMS solutions.
+Thanks for stopping by — I’m a Software Engineer building attractive, responsive, and high-performance web applications. I work with Python and JavaScript and specialize in modern frontend technologies: HTML5, CSS3 (Sass), Tailwind, Bootstrap, TypeScript, React, Next.js, and Node.js. I’ve also gained practical WordPress experience — theme & plugin customization, Elementor/Gutenberg workflows, and WooCommerce setup — so I can deliver both custom apps and flexible CMS solutions.
 
-I’ve volunteered on web projects and shipped several personal builds, which sharpened my problem-solving and communication skills and helped me grow as a collaborator. Outside of code I enjoy listening to music, playing games, and getting on the football pitch. I’m looking for opportunities where I can apply my skills, keep learning, and contribute to a team’s success.
+I’ve volunteered on web projects and shipped several personal builds, which sharpened my problem-solving and communication skills and helped me grow as a collaborator. Outside of code I enjoy listening to music, gaming, and playing football. I’m actively seeking opportunities to apply my skills, keep learning, and contribute to a team’s success.
 
-**Quick Overview:** 
----------
-- 😊 Pronouns: He/him.
-- 🌱 Always learning: I am currently deepening my expertise in Mobile App Development (React Native) and Wordpress.
-- 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
-- 💼 Job interests: Frontend Engineer, Backend Developer.
-- 📫 Feel free to contact me on LinkedIn and Twitter by clicking the social media icon below / check out my resume.
+**Quick Overview:**  
+- 😊 Pronouns: He / him  
+- 🌱 Always learning: currently deepening expertise in Mobile App Development (React Native) and WordPress  
+- 🤝 Open to collaboration: open-source projects, hackathons, and team efforts  
+- 💼 Job interests: Frontend Engineer, Backend Developer  
+- 📫 Contact: see social links below (click icons) or check my resume
 
-**Language and Tool(s):**  
----------------
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="40" height="50"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code><code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"></code><code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></code><code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="50"/></code><code><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="50"/></code>
+---
 
-**Contact:** 
---------
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adedamola99)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Damia) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'>](https://www.linkedin.com/in/adebitan-damola-0703a718b)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/itz_damia?t=LdsVqEdwc327kAmcI9-88Q&s=08)
+## Languages & Tools
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn"></code>
+
+---
+
+## Contact
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="36">](https://github.com/adedamola99)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" alt="Hashnode" height="36">](https://hashnode.com/@Damia)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="36">](https://www.linkedin.com/in/adebitan-damola-0703a718b)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="36">](https://twitter.com/itz_damia)
