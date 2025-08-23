@@ -1,6 +1,8 @@
 <img src="/Header.png" />
 
-I'm excited you could check out my profile. As a Software Engineer determined to build attractive, responsive, and optimized web applications. I'm well versed in a few programming languages such as Python, JavaScript, and frontend stack, including HTML5, CSS3, Tailwind, Bootstrap, JavaScript, Sass, TypeScript, React, NextJs, and NodeJs. My expertise in frontend stack has allowed me to volunteer to build web applications for people and work on some personal projects, which has enhanced my communication skills and contributed to my growth. In my free time, I enjoy listening to music, playing games, and engaging in football activities. I'm seeking opportunities to apply my skill set and contribute to team success.
+Thanks for stopping by — I’m a Software Engineer who builds attractive, responsive, and high-performance web applications. I work with Python and JavaScript and specialize in modern frontend technologies: HTML5, CSS3 (Sass), Tailwind, Bootstrap, TypeScript, React, Next.js, and Node.js. I’ve also gained practical WordPress experience — theme and plugin customization, Elementor/Gutenberg workflows, and WooCommerce setup — which lets me deliver both custom apps and flexible CMS solutions.
+
+I’ve volunteered on web projects and shipped several personal builds, which sharpened my problem-solving and communication skills and helped me grow as a collaborator. Outside of code I enjoy listening to music, playing games, and getting on the football pitch. I’m looking for opportunities where I can apply my skills, keep learning, and contribute to a team’s success.
 
 **Quick Overview:** 
 ---------
