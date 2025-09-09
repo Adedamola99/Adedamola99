@@ -5,7 +5,7 @@ Thanks for stopping by — I’m a Software Engineer building attractive, respon
 I’ve volunteered and collaborated on web projects and shipped several personal builds, which sharpened my problem-solving and communication skills and helped me grow as a collaborator. Outside of code I enjoy listening to music, gaming, and playing football. I’m actively seeking opportunities to apply my skills, keep learning, and contribute to a team’s success.
 
 **Quick Overview:**  
-- 😊 Pronouns: He / him  
+- 😊 Pronouns: He/him  
 - 🌱 Always learning: currently deepening expertise in Mobile App Development (React Native) and WordPress  
 - 🤝 Open to collaboration: open-source projects, hackathons, and team efforts  
 - 💼 Job interests: Frontend Engineer, Backend Developer  
