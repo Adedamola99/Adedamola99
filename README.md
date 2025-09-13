@@ -1,6 +1,7 @@
 ![Header](./Header.png)
 
 Thanks for stopping by — I’m a Software Engineer building attractive, responsive, and high-performance web applications. I work with Python and JavaScript and specialize in modern frontend technologies: HTML5, CSS3 (Sass), Tailwind, Bootstrap, TypeScript, React, Vue, Next.js, and Node.js. I’ve also gained practical WordPress experience — theme & plugin customization, Elementor, and WooCommerce setup — so I can deliver both custom apps and flexible CMS solutions.
+
 I’ve volunteered and collaborated on web projects and shipped several personal builds, which sharpened my problem-solving and communication skills and helped me grow as a collaborator. Outside of code I enjoy listening to music, gaming, and playing football. I’m actively seeking opportunities to apply my skills, keep learning, and contribute to a team’s success.
 
 **Quick Overview:**  
