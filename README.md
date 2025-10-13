@@ -9,7 +9,7 @@ I’ve volunteered and collaborated on web projects and shipped several personal
 - 🌱 Always learning: currently deepening expertise in Mobile App Development (React Native) and WordPress  
 - 🤝 Open to collaboration: open-source projects, hackathons, and team efforts  
 - 💼 Job interests: Frontend Engineer, Backend Developer, Wordpress developer
-- 📫 Contact: see social links below (click icons) or check my resume
+- 📫 Contact: see social links below (click icon(s)) or check my resume
 
 ---
 
