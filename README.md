@@ -9,7 +9,7 @@ I’ve volunteered and collaborated on different web projects and shipped severa
 - 🌱 Always learning: currently deepening expertise in Mobile App Development (React Native) and WordPress  
 - 🤝 Open to collaboration: open-source project(s), hackathons, and team efforts  
 - 💼 Job interests: Frontend Developer, Backend Developer, WordPress developer
-- 📫 Contact: see social link(s) below (click icon(s)) or check my resume
+- 📫 Contact: see social link(s) below (click icons) or check my resume
 
 ---
 
