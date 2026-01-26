@@ -6,10 +6,10 @@ I have volunteered and collaborated on different web projects and shipped severa
 
 **Quick Overview:**  
 - 😊 Pronouns: He/him
-- 🌱 Always learning: currently deepening my expertise in Mobile App Development (React Native) and WordPress plug-in development 
+- 🌱 Always learning: currently deepening my expertise in Mobile App Development (React Native) and WordPress Plug-in development 
 - 🤝 Open to collaboration: open-source projects, hackathons, and team efforts  
 - 💼 Job interests: Frontend Developer, Backend Developer, WordPress developer
-- 📫 Contact(s): see social links below (click icons) or check my resume
+- 📫 Contact(s): see social links below or check my resume
 
 ---
 
